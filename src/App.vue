@@ -196,7 +196,7 @@
                                 class="text-center"
                                 cols="12"
                         >
-                            <strong>Copyright ©{{ new Date().getFullYear() }} All rights reserved | This template is made with  by
+                            <strong>Copyright ©{{ new Date().getFullYear() }} All rights reserved | This is made by
                                 <a href="" class="green--text">Web Burden</a>
                             </strong>
                         </v-col>
